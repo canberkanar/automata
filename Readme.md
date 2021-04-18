@@ -6,7 +6,7 @@
 - User feeds the application via the command prompt by providing words to be consumed by the automata. If the input is an accepted word according to the automata`s language, user is notified via the message: "Input word is an Accepted Word of the Automata.", else an Unchecked Exception is thrown with the message; "Input word is NOT an Accepted Word of the Automata!"
 
 
-###Sample Inputs
+### Sample Inputs
 
 > adfeced
 
